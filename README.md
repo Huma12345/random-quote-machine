@@ -1,16 +1,17 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Random Quote Machine
+A simple application that shows random quotes using API.
 
-## Available Scripts
+Here you can see the preview URL: https://codepen.io/huma12345/pen/PoqBMwq?editors=0100
 
-In the project directory, you can run:
+Installation
+To get started right away:
 
-### `npm start`
+install all project dependencies with npm install
+start the development server with npm start
+run http://localhost:3000/ to open the app
+User Stories
+User can see a random quote and its author displayed by the machine.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+When user clicks the button a new quote is fetched.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
-### You Can see Preview on Codepen
-URL: https://codepen.io/huma12345/pen/PoqBMwq?editors=0100
+User can tweet the current quote by clicking on the Twitt button.
