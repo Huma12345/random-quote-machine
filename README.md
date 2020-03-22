@@ -2,7 +2,7 @@
 
 A simple application that shows random quotes using API.
 
-Here you can see the [preview](https://codepen.io/huma12345/pen/PoqBMwq?editors=0100).
+Here you can see the [preview](https://codepen.io/huma12345/full/PoqBMwq).
 
 ## Installation
 
